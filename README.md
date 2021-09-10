@@ -1,0 +1,2 @@
+# DogeMiner
+Nothing for now
